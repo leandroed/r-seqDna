@@ -4,8 +4,8 @@ mismatch <- -1
 d <- -2
 scoreAlinhamento <- 0
 
-seq1 <- "CATTAATTACACTCTCGCACTCACCACCAAACATCCTAAACCCAGACAGGCCTCGACTCC"
-seq2 <- "ACTAAACAAGACTCGCCTGTCTAACTAGGGAGTTTATAATGAACCGTGGCGTAGACCA"
+seq1 <- "AATCCCAG"
+seq2 <- "ACTAACG"
 
 matz <- matrix(0:0, nrow = nchar(seq1)+1, ncol = nchar(seq2)+1)
 
