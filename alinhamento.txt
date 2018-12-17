@@ -1,0 +1,15 @@
+"x"
+"************ Entrada do alinhamento ************ 
+"
+"Sequencia de entrada 1: TTCATA 
+"
+"Sequencia de entrada 2: TGCTCGTA 
+"
+"************ Saída do alinhamento ************ 
+"
+"Alinhamento 1: T--TCATA 
+"
+"Alinhamento 2: TGCTCGTA 
+"
+"Score: 2 
+"
