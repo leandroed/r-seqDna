@@ -112,7 +112,6 @@ cat ("Sequencia 2:\n", paste(seq2Result, collapse=''),"\n\n")
 
 print(paste('Score: ', matz[nchar(seq1)+1,nchar(seq2)+1]))
 
-print(matz)
 print("Foi gerado o arquivo 'alinhamento.txt' com a sequencia alinhada.")
 
 ##escrita em arquivo
