@@ -145,5 +145,4 @@ saida_arquivo <- paste(saida_arquivo, "\n")
 
 write.table(saida_arquivo, file = "alinhamento.txt", row.names = FALSE)
 
-
 #Rodar: Rscript SeqDNA.R arq1.txt arq2.txt
